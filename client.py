@@ -10,7 +10,7 @@ BUFFER_SIZE = 4096 # send 4096 bytes each time step
 host = sys.argv[2] # The IP of the instance
 
 # the port, specified as a paramter
-port = int(sys.argv[3]) #asdij
+port = int(sys.argv[3])
 
 # the name of file we want to send
 filename = sys.argv[1]
